@@ -42,10 +42,13 @@ and just ask the editors to select the category.
 ### Foundation
 
 ### Newsletters
+[Rust Trends Issue 81 - Rust 1.98 Ships as the Supply Chain Gets Tested](https://rust-trends.com/newsletter/rust-1-98-ships-as-the-supply-chain-gets-tested/)
 
 ### Project/Tooling Updates
 
 ### Observations/Thoughts
+
+* [What Does a Governed Data Runtime Cost? TeaQL vs Diesel and SeaORM on MusicBrainz](https://teaql.io/blog/musicbrainz-rust-orm-benchmark/)
 
 ### Rust Walkthroughs
 
@@ -108,6 +111,7 @@ You may remove the `call-for-testing` label.  Please feel free to leave the `cal
 If you are a feature implementer and would like your RFC to appear on the above list, add the new `call-for-testing`
 label to your RFC along with a comment providing testing instructions and/or guidance on which aspect(s) of the feature
 need testing.
+
 
 ## Call for Participation; projects and speakers
 
